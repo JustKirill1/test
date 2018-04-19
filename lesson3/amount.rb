@@ -10,6 +10,8 @@ def amount
   b1 = b.to_i
   c1 = c.to_i
   e = a1*b1*c1
+  d = a1*b1
   p "Amount of ur figure is " + e.to_s
+  p "And are is " d.to_s
 end
 amount
