@@ -1,3 +1,4 @@
+p "Write me the some letter DONT WRITE X OR SOMETHING ELSE SYMBOLS !!!"
 i = gets.chomp
 b = i.to_s
 case i
