@@ -1,1 +1,0 @@
-File.foreach("test.txt") { |line| puts line + "!"}
